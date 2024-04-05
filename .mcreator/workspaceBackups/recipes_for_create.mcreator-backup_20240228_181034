@@ -1,0 +1,6362 @@
+{
+  "mod_elements": [
+    {
+      "name": "Barredoakdoor",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barredoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barredoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Windowedoakdoor",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Tiledoakdoor",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Tilewindowedoakdoor",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tilewindowedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tilewindowedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Supportedoakdoor",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "supportedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/supportedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Slidingoakdoor",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slidingoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slidingoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Shackoakdoor",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shackoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shackoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Secretoakdoor",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "secretoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/secretoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Screenoakdoor",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "screenoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/screenoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Pressedoakdoor",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pressedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pressedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Paperoakdoor",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paperoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paperoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Paneledoakdoor",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paneledoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paneledoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Overgrownoakdoor",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Heavyoakdoor",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavyoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavyoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Glassoakdoor",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glassoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/glassoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Gatedoakdoor",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gatedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/gatedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Fortifiedoakdoor",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fortifiedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fortifiedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Dualpaneledoakdoor",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dualpaneledoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dualpaneledoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Boardedoakdoor",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boardedoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boardedoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "Beachoakdoor",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beachoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/beachoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Doors"
+    },
+    {
+      "name": "S",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "s",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/s.json"
+        ]
+      },
+      "path": "~/Chipped/Birch"
+    },
+    {
+      "name": "Wovenoaktrapdoor",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wovenoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wovenoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Windowedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Wartedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wartedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wartedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Vinedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vinedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/vinedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Twistedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "twistedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/twistedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Suspiciousoaktrapdoor",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "suspiciousoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/suspiciousoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Solidoaktrapdoor",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "solidoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/solidoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Slottedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slottedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slottedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Pointlessoaktrapdoor",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pointlessoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pointlessoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Overgrownoaktrapdoor",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Meshedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "meshedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/meshedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Leafyoaktrapdoor",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "leafyoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/leafyoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Ironbarredoaktrapdoor",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ironbarredoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ironbarredoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Heavyoaktrapdoor",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavyoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavyoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Goldenbarredoaktrapdoor",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenbarredoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenbarredoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Fancyoaktrapdoor",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fancyoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fancyoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Distortedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "distortedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/distortedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Cobweboaktrapdoor",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cobweboaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cobweboaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Classicwindowedoaktrapdoor",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicwindowedoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicwindowedoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Checkeredoaktrapdoor",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "checkeredoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/checkeredoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Barredoaktrapdoor",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barredoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barredoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Airyoaktrapdoor",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "airyoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/airyoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Trapdoor"
+    },
+    {
+      "name": "Wickeredoakplanks",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wickeredoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wickeredoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Whirlwindoakplanks",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whirlwindoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whirlwindoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Verticallyrailedoakplanks",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticallyrailedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticallyrailedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Verticaloakplanks",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticaloakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticaloakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Versaillesoakplanks",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "versaillesoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/versaillesoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Tiledoakplanks",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Thinoakplanks",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thinoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/thinoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Stackedoakplanks",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stackedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/stackedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Smoothoakplanks",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smoothoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/smoothoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Slantedoakplanks",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slantedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slantedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Shiftedoakplanks",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shiftedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shiftedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Railedoakplanks",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "railedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/railedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Polishedoakplanks",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "polishedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/polishedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Peggedoakplanks",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "peggedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/peggedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Oakplanksshavings",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "oakplanksshavings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/oakplanksshavings.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Oakplankspanel",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "oakplankspanel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/oakplankspanel.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Oakplanksmosaic",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "oakplanksmosaic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/oakplanksmosaic.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Naturaloakplanks",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naturaloakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naturaloakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Nailedoakplanks",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nailedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/nailedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Lacedoakplanks",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lacedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lacedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Hewnoakplanks",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hewnoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/hewnoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Herringboneoakplanks",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "herringboneoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/herringboneoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Framedoakplanks",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "framedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/framedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Fineverticaloakplanks",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineverticaloakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineverticaloakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Fineoakplanks",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Enclosedoakplanks",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "enclosedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/enclosedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Doubleherringboneoakplanks",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "doubleherringboneoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/doubleherringboneoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Diamondoakplanks",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamondoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diamondoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Diagonaloakplanks",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diagonaloakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diagonaloakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Detailedoakplanks",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "detailedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/detailedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Crossedoakplanks",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crossedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crossedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Crosslacedoakplanks",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crosslacedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crosslacedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Cratedoakplanks",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cratedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cratedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Corneredoakplanks",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "corneredoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/corneredoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Brickyoakplanks",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickyoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickyoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Brickbondoakplanks",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickbondoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickbondoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Boxedoakplanks",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boxedoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boxedoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Basketwovenoakplanks",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "basketwovenoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/basketwovenoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Planks"
+    },
+    {
+      "name": "Reinforcedoaklog",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforcedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforcedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Plankedoaklog",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "plankedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/plankedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Overgrownoaklog",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Nailedoaklog",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nailedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/nailedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Mixedoaklog",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mixedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/mixedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Floweringoaklog",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "floweringoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/floweringoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Firewoodoaklog",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "firewoodoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/firewoodoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Edgecutoaklog",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "edgecutoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/edgecutoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Damagedoaklog",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "damagedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/damagedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Centercutoaklog",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "centercutoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/centercutoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Bundledoaklog",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bundledoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bundledoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Log"
+    },
+    {
+      "name": "Whitefloweroakleaves",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whitefloweroakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whitefloweroakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Redoakleaves",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "redoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/redoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Orangeoakleaves",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "orangeoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/orangeoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Magentafloweroakleaves",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "magentafloweroakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/magentafloweroakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Goldenoakleaves",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Goldencherryoakleaves",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldencherryoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldencherryoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Goldenappleoakleaves",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenappleoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenappleoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Frostedoakleaves",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "frostedoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/frostedoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Deadoakleaves",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "deadoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/deadoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Cherryoakleaves",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cherryoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cherryoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Appleoakleaves",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "appleoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/appleoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Oak Leaves"
+    },
+    {
+      "name": "Warpedtorch",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "warpedtorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/warpedtorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Sprucetorch",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sprucetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/sprucetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Jungletorch",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "jungletorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/jungletorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Irontorch",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "irontorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/irontorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Glowtorch",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glowtorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/glowtorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Darkoaktorch",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "darkoaktorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/darkoaktorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Crimsontorch",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crimsontorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crimsontorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Birchtorch",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "birchtorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/birchtorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Acaciatorch",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "acaciatorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/acaciatorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch"
+    },
+    {
+      "name": "Yellowredstonetorch",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "yellowredstonetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/yellowredstonetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch/Redstone Torch"
+    },
+    {
+      "name": "Lightstickredstonetorch",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lightstickredstonetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lightstickredstonetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch/Redstone Torch"
+    },
+    {
+      "name": "Greenredstonetorch",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "greenredstonetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/greenredstonetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch/Redstone Torch"
+    },
+    {
+      "name": "Crimsonredstonetorch",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crimsonredstonetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crimsonredstonetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch/Redstone Torch"
+    },
+    {
+      "name": "Blueredstonetorch",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "blueredstonetorch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/blueredstonetorch.json"
+        ]
+      },
+      "path": "~/Chipped/Torch/Redstone Torch"
+    },
+    {
+      "name": "Windoweddarkoakdoor",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windoweddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windoweddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Tileddarkoakdoor",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tileddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tileddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Tilewindoweddarkoakdoor",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tilewindoweddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tilewindoweddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Supporteddarkoakdoor",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "supporteddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/supporteddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Slidingdarkoakdoor",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slidingdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slidingdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Shackdarkoakdoor",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shackdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shackdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Secretdarkoakdoor",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "secretdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/secretdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Screendarkoakdoor",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "screendarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/screendarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Presseddarkoakdoor",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "presseddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/presseddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Paperdarkoakdoor",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paperdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paperdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Overgrowndarkoakdoor",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrowndarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrowndarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Heavydarkoakdoor",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavydarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavydarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Glassdarkoakdoor",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glassdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/glassdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Gateddarkoakdoor",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gateddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/gateddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Fortifieddarkoakdoor",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fortifieddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fortifieddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Dualpaneleddarkoakdoor",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dualpaneleddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dualpaneleddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Boardeddarkoakdoor",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boardeddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boardeddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Beachdarkoakdoor",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beachdarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/beachdarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Barreddarkoakdoor",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barreddarkoakdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barreddarkoakdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Door"
+    },
+    {
+      "name": "Whiteflowerdarkoakleaves",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whiteflowerdarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whiteflowerdarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Reddarkoakleaves",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reddarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reddarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Orangedarkoakleaves",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "orangedarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/orangedarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Magentaflowerdarkoakleaves",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "magentaflowerdarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/magentaflowerdarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Goldendarkoakleaves",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldendarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldendarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Goldencherrydarkoakleaves",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldencherrydarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldencherrydarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Goldenappledarkoakleaves",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenappledarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenappledarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Frosteddarkoakleaves",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "frosteddarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/frosteddarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Deaddarkoakleaves",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "deaddarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/deaddarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Cherrydarkoakleaves",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cherrydarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cherrydarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Appledarkoakleaves",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "appledarkoakleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/appledarkoakleaves.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Leaves"
+    },
+    {
+      "name": "Reinforceddarkoaklog",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforceddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforceddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Plankeddarkoaklog",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "plankeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/plankeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Overgrowndarkoaklog",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrowndarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrowndarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Naileddarkoaklog",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naileddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naileddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Mixeddarkoaklog",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mixeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/mixeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Floweringdarkoaklog",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "floweringdarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/floweringdarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Firewooddarkoaklog",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "firewooddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/firewooddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Edgecutdarkoaklog",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "edgecutdarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/edgecutdarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Damageddarkoaklog",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "damageddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/damageddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Centercutdarkoaklog",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "centercutdarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/centercutdarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Bundleddarkoaklog",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bundleddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bundleddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Log"
+    },
+    {
+      "name": "Wickereddarkoakplanks",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wickereddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wickereddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Whirlwinddarkoakplanks",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whirlwinddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whirlwinddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Verticallyraileddarkoakplanks",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticallyraileddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticallyraileddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Verticaldarkoakplanks",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticaldarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticaldarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Versaillesdarkoakplanks",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "versaillesdarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/versaillesdarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Tileddarkoakplanks",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tileddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tileddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Thindarkoakplanks",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thindarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/thindarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Stackeddarkoakplanks",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stackeddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/stackeddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Smoothdarkoakplanks",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smoothdarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/smoothdarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Slanteddarkoakplanks",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slanteddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slanteddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Shifteddarkoakplanks",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shifteddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shifteddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Raileddarkoakplanks",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "raileddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/raileddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Polisheddarkoakplanks",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "polisheddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/polisheddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Peggeddarkoakplanks",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "peggeddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/peggeddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Naturaldarkoakplanks",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naturaldarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naturaldarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Naileddarkoakplanks",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naileddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naileddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Laceddarkoakplanks",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "laceddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/laceddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Hewndarkoakplanks",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hewndarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/hewndarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Herringbonedarkoakplanks",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "herringbonedarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/herringbonedarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Frameddarkoakplanks",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "frameddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/frameddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Fineverticaldarkoakplanks",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineverticaldarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineverticaldarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Finedarkoakplanks",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "finedarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/finedarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Encloseddarkoakplanks",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "encloseddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/encloseddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Doubleherringbonedarkoakplanks",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "doubleherringbonedarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/doubleherringbonedarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Diamonddarkoakplanks",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamonddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diamonddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Diagonaldarkoakplanks",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diagonaldarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diagonaldarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Detaileddarkoakplanks",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "detaileddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/detaileddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Darkoakplanksshavings",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "darkoakplanksshavings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/darkoakplanksshavings.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Darkoakplankspanel",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "darkoakplankspanel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/darkoakplankspanel.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Darkoakplanksmosaic",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "darkoakplanksmosaic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/darkoakplanksmosaic.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Crosseddarkoakplanks",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crosseddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crosseddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Crosslaceddarkoakplanks",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crosslaceddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crosslaceddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Crateddarkoakplanks",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crateddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crateddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Cornereddarkoakplanks",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cornereddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cornereddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Brickydarkoakplanks",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickydarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickydarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Brickbonddarkoakplanks",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickbonddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickbonddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Boxeddarkoakplanks",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boxeddarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boxeddarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Basketwovendarkoakplanks",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "basketwovendarkoakplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/basketwovendarkoakplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dk Oak Planks"
+    },
+    {
+      "name": "Wovendarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wovendarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wovendarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Windoweddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windoweddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windoweddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Warteddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "warteddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/warteddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Vineddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vineddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/vineddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Twisteddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "twisteddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/twisteddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Suspiciousdarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "suspiciousdarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/suspiciousdarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Soliddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "soliddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/soliddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Slotteddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slotteddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slotteddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Pointlessdarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pointlessdarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pointlessdarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Overgrowndarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrowndarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrowndarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Mesheddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mesheddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/mesheddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Leafydarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "leafydarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/leafydarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Ironbarreddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ironbarreddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ironbarreddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Heavydarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavydarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavydarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Goldenbarreddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenbarreddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenbarreddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Fancydarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fancydarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fancydarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Distorteddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "distorteddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/distorteddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Cobwebdarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cobwebdarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cobwebdarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Classicwindoweddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicwindoweddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicwindoweddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Classicdarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicdarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicdarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Checkereddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "checkereddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/checkereddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Barreddarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barreddarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barreddarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Airydarkoaktrapdoor",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "airydarkoaktrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/airydarkoaktrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Dark Oak Trapdoor"
+    },
+    {
+      "name": "Wisestrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wisestrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wisestrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Sternstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sternstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/sternstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Signstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "signstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/signstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Reinforcedstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforcedstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforcedstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Patientstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "patientstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/patientstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Msignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "msignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/msignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Lumpystrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lumpystrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lumpystrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Layeredstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "layeredstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/layeredstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Lsignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lsignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lsignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Knottedstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "knottedstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/knottedstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Ksignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ksignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ksignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Isignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "isignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/isignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Fsignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fsignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fsignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Edgedstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "edgedstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/edgedstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Dsignstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dsignstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dsignstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Chippedstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chippedstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/chippedstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Carvedstrippeddarkoaklog",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "carvedstrippeddarkoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/carvedstrippeddarkoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Dark Oak/Stripped Dark Oak Log"
+    },
+    {
+      "name": "Wisestrippedoaklog",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wisestrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wisestrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Sternstrippedoaklog",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sternstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/sternstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Signstrippedoaklog",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "signstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/signstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Reinforcedstrippedoaklog",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforcedstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforcedstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Patientstrippedoaklog",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "patientstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/patientstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Msignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "msignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/msignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Lumpystrippedoaklog",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lumpystrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lumpystrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Layeredstrippedoaklog",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "layeredstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/layeredstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Lsignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lsignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lsignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Knottedstrippedoaklog",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "knottedstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/knottedstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Ksignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ksignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ksignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Isignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "isignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/isignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Fsignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fsignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fsignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Edgedstrippedoaklog",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "edgedstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/edgedstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Dsignstrippedoaklog",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dsignstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dsignstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Chippedstrippedoaklog",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chippedstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/chippedstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Carvedstrippedoaklog",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "carvedstrippedoaklog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/carvedstrippedoaklog.json"
+        ]
+      },
+      "path": "~/Chipped/Oak/Stripped Oak Log"
+    },
+    {
+      "name": "Windowedacaciadoor",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Tiledacaciadoor",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Tilewindowedacaciadoor",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tilewindowedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tilewindowedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Supportedacaciadoor",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "supportedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/supportedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Slidingacaciadoor",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slidingacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slidingacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Shackacaciadoor",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shackacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shackacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Secretacaciadoor",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "secretacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/secretacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Screenacaciadoor",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "screenacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/screenacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Pressedacaciadoor",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pressedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pressedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Paperacaciadoor",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paperacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paperacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Paneledacaciadoor",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paneledacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paneledacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Overgrownacaciadoor",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Heavyacaciadoor",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavyacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavyacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Glassacaciadoor",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glassacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/glassacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Gatedacaciadoor",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gatedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/gatedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Fortifiedacaciadoor",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fortifiedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fortifiedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Dualpaneledacaciadoor",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dualpaneledacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dualpaneledacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Boardedacaciadoor",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boardedacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boardedacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Beachacaciadoor",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beachacaciadoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/beachacaciadoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Door"
+    },
+    {
+      "name": "Whitefloweracacialeaves",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whitefloweracacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whitefloweracacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Redacacialeaves",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "redacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/redacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Orangeacacialeaves",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "orangeacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/orangeacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Magentafloweracacialeaves",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "magentafloweracacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/magentafloweracacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Goldencherryacacialeaves",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldencherryacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldencherryacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Goldenappleacacialeaves",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenappleacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenappleacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Goldenacacialeaves",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Frostedacacialeaves",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "frostedacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/frostedacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Deadacacialeaves",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "deadacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/deadacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Cherryacacialeaves",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cherryacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cherryacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Appleacacialeaves",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "appleacacialeaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/appleacacialeaves.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Leaves"
+    },
+    {
+      "name": "Reinforcedacacialog",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforcedacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforcedacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Plankedacacialog",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "plankedacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/plankedacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Overgrownacacialog",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Nailedacacialog",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nailedacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/nailedacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Mixedacacialog",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mixedacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/mixedacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Floweringacacialog",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "floweringacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/floweringacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Firewoodacacialog",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "firewoodacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/firewoodacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Edgecutacacialog",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "edgecutacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/edgecutacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Damagedacacialog",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "damagedacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/damagedacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Centercutacacialog",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "centercutacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/centercutacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Bundledacacialog",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bundledacacialog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bundledacacialog.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Log"
+    },
+    {
+      "name": "Wickeredacaciaplanks",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wickeredacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wickeredacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Whirlwindacaciaplanks",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whirlwindacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whirlwindacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Verticallyrailedacaciaplanks",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticallyrailedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticallyrailedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Verticalacaciaplanks",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticalacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticalacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Versaillesacaciaplanks",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "versaillesacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/versaillesacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Tiledacaciaplanks",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Thinacaciaplanks",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thinacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/thinacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Stackedacaciaplanks",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stackedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/stackedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Smoothacaciaplanks",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smoothacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/smoothacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Slantedacaciaplanks",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slantedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slantedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Shiftedacaciaplanks",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shiftedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shiftedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Railedacaciaplanks",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "railedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/railedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Polishedacaciaplanks",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "polishedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/polishedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Peggedacaciaplanks",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "peggedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/peggedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Naturalacaciaplanks",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naturalacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naturalacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Nailedacaciaplanks",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nailedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/nailedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Lacedacaciaplanks",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lacedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lacedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Hewnacaciaplanks",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hewnacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/hewnacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Herringboneacaciaplanks",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "herringboneacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/herringboneacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Framedacaciaplanks",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "framedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/framedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Fineverticalacaciaplanks",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineverticalacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineverticalacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Fineacaciaplanks",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Enclosedacaciaplanks",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "enclosedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/enclosedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Doubleherringboneacaciaplanks",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "doubleherringboneacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/doubleherringboneacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Diamondacaciaplanks",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamondacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diamondacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Diagonalacaciaplanks",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diagonalacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diagonalacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Detailedacaciaplanks",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "detailedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/detailedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Crossedacaciaplanks",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crossedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crossedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Crosslacedacaciaplanks",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crosslacedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crosslacedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Cratedacaciaplanks",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cratedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cratedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Corneredacaciaplanks",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "corneredacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/corneredacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Brickyacaciaplanks",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickyacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickyacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Brickbondacaciaplanks",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickbondacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickbondacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Boxedacaciaplanks",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boxedacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boxedacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Basketwovenacaciaplanks",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "basketwovenacaciaplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/basketwovenacaciaplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Acaciaplanksshavings",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "acaciaplanksshavings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/acaciaplanksshavings.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Acaciaplankspanel",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "acaciaplankspanel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/acaciaplankspanel.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Acaciaplanksmosaic",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "acaciaplanksmosaic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/acaciaplanksmosaic.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Planks"
+    },
+    {
+      "name": "Wovenacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wovenacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wovenacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Windowedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Wartedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wartedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wartedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Vinedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vinedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/vinedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Twistedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "twistedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/twistedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Suspiciousacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "suspiciousacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/suspiciousacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Solidacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "solidacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/solidacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Slottedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slottedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slottedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Pointlessacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pointlessacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pointlessacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Overgrownacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Meshedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "meshedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/meshedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Leafyacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "leafyacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/leafyacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Ironbarredacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ironbarredacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ironbarredacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Heavyacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavyacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavyacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Goldenbarredacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenbarredacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenbarredacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Fancyacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fancyacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fancyacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Distortedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "distortedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/distortedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Cobwebacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cobwebacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cobwebacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Classicwindowedacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicwindowedacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicwindowedacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Classicacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Checkeredacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "checkeredacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/checkeredacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Barredacaciatrapdoor",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barredacaciatrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barredacaciatrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Acacia/Acacia Trapdoor"
+    },
+    {
+      "name": "Tiledbamboodoor",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Tilewindowedbamboodoor",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tilewindowedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tilewindowedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Supportedbamboodoor",
+      "type": "recipe",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "supportedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/supportedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Slidingbamboodoor",
+      "type": "recipe",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slidingbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slidingbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Shackbamboodoor",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shackbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shackbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Secretbamboodoor",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "secretbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/secretbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Screenbamboodoor",
+      "type": "recipe",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "screenbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/screenbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Pressedbamboodoor",
+      "type": "recipe",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pressedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pressedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Paperbamboodoor",
+      "type": "recipe",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paperbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paperbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Paneledbamboodoor",
+      "type": "recipe",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paneledbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paneledbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Overgrownbamboodoor",
+      "type": "recipe",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Heavybamboodoor",
+      "type": "recipe",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavybamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavybamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Glassbamboodoor",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glassbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/glassbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Gatedbamboodoor",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gatedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/gatedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Fortifiedbamboodoor",
+      "type": "recipe",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fortifiedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fortifiedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Dualpaneledbamboodoor",
+      "type": "recipe",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dualpaneledbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/dualpaneledbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Boardedbamboodoor",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boardedbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boardedbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Beachbamboodoor",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beachbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/beachbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Barredbamboodoor",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barredbamboodoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barredbamboodoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Door"
+    },
+    {
+      "name": "Wickeredbambooplanks",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wickeredbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wickeredbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Whirlwindbambooplanks",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "whirlwindbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/whirlwindbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Verticallyrailedbambooplanks",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticallyrailedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticallyrailedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Verticalbambooplanks",
+      "type": "recipe",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "verticalbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/verticalbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Versaillesbambooplanks",
+      "type": "recipe",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "versaillesbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/versaillesbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Tiledbambooplanks",
+      "type": "recipe",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Tiedbambooplanks",
+      "type": "recipe",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Thinbambooplanks",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thinbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/thinbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Stackedbambooplanks",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stackedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/stackedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Smoothbambooplanks",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smoothbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/smoothbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Slantedbambooplanks",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slantedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slantedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Shiftedbambooplanks",
+      "type": "recipe",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shiftedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shiftedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Reinforcedbambooplanks",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforcedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/reinforcedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Railedbambooplanks",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "railedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/railedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Polishedbambooplanks",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "polishedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/polishedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Naturalbambooplanks",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "naturalbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/naturalbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Lacedbambooplanks",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lacedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/lacedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Hewnbambooplanks",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hewnbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/hewnbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Herringbonebambooplanks",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "herringbonebambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/herringbonebambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Framedbambooplanks",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "framedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/framedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Fineverticalbambooplanks",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fineverticalbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fineverticalbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Finebambooplanks",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "finebambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/finebambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Enclosedbambooplanks",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "enclosedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/enclosedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Doubleherringbonebambooplanks",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "doubleherringbonebambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/doubleherringbonebambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Diamondbambooplanks",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamondbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diamondbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Diagonalbambooplanks",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diagonalbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/diagonalbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Detailedbambooplanks",
+      "type": "recipe",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "detailedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/detailedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Crossedbambooplanks",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crossedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crossedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Crosslacedbambooplanks",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "crosslacedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/crosslacedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Cratedbambooplanks",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cratedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cratedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Corneredbambooplanks",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "corneredbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/corneredbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Brickybambooplanks",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickybambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickybambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Brickbondbambooplanks",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brickbondbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/brickbondbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Boxedbambooplanks",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "boxedbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/boxedbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Basketwovenbambooplanks",
+      "type": "recipe",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "basketwovenbambooplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/basketwovenbambooplanks.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Bambooplanksshavings",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bambooplanksshavings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bambooplanksshavings.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Bambooplankspanel",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bambooplankspanel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bambooplankspanel.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Bambooplanksfinemosaic",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bambooplanksfinemosaic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/bambooplanksfinemosaic.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Planks"
+    },
+    {
+      "name": "Wovenbambootrapdoor",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wovenbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wovenbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Windowedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Wartedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wartedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/wartedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Vinedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vinedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/vinedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Twistedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "twistedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/twistedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Suspiciousbambootrapdoor",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "suspiciousbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/suspiciousbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Solidbambootrapdoor",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "solidbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/solidbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Slottedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slottedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slottedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Pointlessbambootrapdoor",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pointlessbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pointlessbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Overgrownbambootrapdoor",
+      "type": "recipe",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Meshedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "meshedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/meshedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Leafybambootrapdoor",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "leafybambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/leafybambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Ironbarredbambootrapdoor",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ironbarredbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/ironbarredbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Heavybambootrapdoor",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "heavybambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/heavybambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Goldenbarredbambootrapdoor",
+      "type": "recipe",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goldenbarredbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/goldenbarredbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Fancybambootrapdoor",
+      "type": "recipe",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fancybambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/fancybambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Distortedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "distortedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/distortedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Cobwebbambootrapdoor",
+      "type": "recipe",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cobwebbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/cobwebbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Classicwindowedbambootrapdoor",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicwindowedbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicwindowedbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Classicbambootrapdoor",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "classicbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/classicbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Checkeredbambootrapdoor",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "checkeredbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/checkeredbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Barredbambootrapdoor",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "barredbambootrapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/barredbambootrapdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Bamboo/Bamboo Trapdoor"
+    },
+    {
+      "name": "Windowedbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "windowedbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/windowedbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Tiledbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tiledbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tiledbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Tilewindowedbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tilewindowedbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/tilewindowedbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Supportedbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "supportedbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/supportedbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Slidingbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "slidingbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/slidingbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Shackbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shackbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/shackbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Secretbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "secretbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/secretbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Screenbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "screenbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/screenbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Pressedbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pressedbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/pressedbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Paneledbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "paneledbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/paneledbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    },
+    {
+      "name": "Overgrownbirchdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "overgrownbirchdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_for_create/recipes/overgrownbirchdoor.json"
+        ]
+      },
+      "path": "~/Chipped/Birch/Birch Door"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Chipped",
+        "children": [
+          {
+            "name": "Oak",
+            "children": [
+              {
+                "name": "Oak Doors",
+                "children": []
+              },
+              {
+                "name": "Oak Trapdoor",
+                "children": []
+              },
+              {
+                "name": "Oak Planks",
+                "children": []
+              },
+              {
+                "name": "Oak Log",
+                "children": []
+              },
+              {
+                "name": "Oak Leaves",
+                "children": []
+              },
+              {
+                "name": "Stripped Oak Log",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dark Oak",
+            "children": [
+              {
+                "name": "Dark Oak Door",
+                "children": []
+              },
+              {
+                "name": "Dark Oak Leaves",
+                "children": []
+              },
+              {
+                "name": "Dark Oak Log",
+                "children": []
+              },
+              {
+                "name": "Dk Oak Planks",
+                "children": []
+              },
+              {
+                "name": "Dark Oak Trapdoor",
+                "children": []
+              },
+              {
+                "name": "Stripped Dark Oak Log",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Torch",
+            "children": [
+              {
+                "name": "Redstone Torch",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Acacia",
+            "children": [
+              {
+                "name": "Acacia Door",
+                "children": []
+              },
+              {
+                "name": "Acacia Leaves",
+                "children": []
+              },
+              {
+                "name": "Acacia Log",
+                "children": []
+              },
+              {
+                "name": "Acacia Planks",
+                "children": []
+              },
+              {
+                "name": "Acacia Trapdoor",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bamboo",
+            "children": [
+              {
+                "name": "Bamboo Door",
+                "children": []
+              },
+              {
+                "name": "Bamboo Planks",
+                "children": []
+              },
+              {
+                "name": "Bamboo Trapdoor",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Birch",
+            "children": [
+              {
+                "name": "Birch Door",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "recipes_for_create",
+    "modName": "Crafting Recipes For Create",
+    "version": "0.6.0",
+    "description": "This Mod Allows You To Craft Chipped With Creat",
+    "author": "Jimmy2389438",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/crafting-recipes-for-create",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "None",
+    "modElementsPackage": "net.mcreator.craftingrecipesforcreate",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
