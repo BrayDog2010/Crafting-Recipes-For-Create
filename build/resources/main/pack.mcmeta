@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "This Mod Allows You To Craft Chipped With Creat"
+    "description": "recipes_for_create mod resources",
+    "pack_format": 9,
+    "forge:resource_pack_format": 9,
+    "forge:data_pack_format": 10
   }
 }

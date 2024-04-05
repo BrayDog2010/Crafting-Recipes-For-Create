@@ -45,6 +45,7 @@ public class RecipesForCreateMod {
 
 	public RecipesForCreateMod() {
 		MinecraftForge.EVENT_BUS.register(this);
+
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 	}
