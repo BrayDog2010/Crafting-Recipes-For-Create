@@ -151,9 +151,11 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/acaciaplankspanel.json
   data/recipes_for_create/recipes/acaciaplanksshavings.json
   data/recipes_for_create/recipes/acaciatorch.json
+  data/recipes_for_create/recipes/airybirchtrapdoor.json
   data/recipes_for_create/recipes/airydarkoaktrapdoor.json
   data/recipes_for_create/recipes/airyoaktrapdoor.json
   data/recipes_for_create/recipes/appleacacialeaves.json
+  data/recipes_for_create/recipes/applebirchleaves.json
   data/recipes_for_create/recipes/appledarkoakleaves.json
   data/recipes_for_create/recipes/appleoakleaves.json
   data/recipes_for_create/recipes/bambooplanksfinemosaic.json
@@ -162,83 +164,106 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/barredacaciatrapdoor.json
   data/recipes_for_create/recipes/barredbamboodoor.json
   data/recipes_for_create/recipes/barredbambootrapdoor.json
+  data/recipes_for_create/recipes/barredbirchdoor.json
+  data/recipes_for_create/recipes/barredbirchtrapdoor.json
   data/recipes_for_create/recipes/barreddarkoakdoor.json
   data/recipes_for_create/recipes/barreddarkoaktrapdoor.json
   data/recipes_for_create/recipes/barredoakdoor.json
   data/recipes_for_create/recipes/barredoaktrapdoor.json
   data/recipes_for_create/recipes/basketwovenacaciaplanks.json
   data/recipes_for_create/recipes/basketwovenbambooplanks.json
+  data/recipes_for_create/recipes/basketwovenbirchplanks.json
   data/recipes_for_create/recipes/basketwovendarkoakplanks.json
   data/recipes_for_create/recipes/basketwovenoakplanks.json
   data/recipes_for_create/recipes/beachacaciadoor.json
   data/recipes_for_create/recipes/beachbamboodoor.json
+  data/recipes_for_create/recipes/beachbirchdoor.json
   data/recipes_for_create/recipes/beachdarkoakdoor.json
   data/recipes_for_create/recipes/beachoakdoor.json
+  data/recipes_for_create/recipes/birchplanksmosaic.json
+  data/recipes_for_create/recipes/birchplankspanel.json
+  data/recipes_for_create/recipes/birchplanksshavings.json
   data/recipes_for_create/recipes/birchtorch.json
   data/recipes_for_create/recipes/blueredstonetorch.json
   data/recipes_for_create/recipes/boardedacaciadoor.json
   data/recipes_for_create/recipes/boardedbamboodoor.json
+  data/recipes_for_create/recipes/boardedbirchdoor.json
   data/recipes_for_create/recipes/boardeddarkoakdoor.json
   data/recipes_for_create/recipes/boardedoakdoor.json
   data/recipes_for_create/recipes/boxedacaciaplanks.json
   data/recipes_for_create/recipes/boxedbambooplanks.json
+  data/recipes_for_create/recipes/boxedbirchplanks.json
   data/recipes_for_create/recipes/boxeddarkoakplanks.json
   data/recipes_for_create/recipes/boxedoakplanks.json
   data/recipes_for_create/recipes/brickbondacaciaplanks.json
   data/recipes_for_create/recipes/brickbondbambooplanks.json
+  data/recipes_for_create/recipes/brickbondbirchplanks.json
   data/recipes_for_create/recipes/brickbonddarkoakplanks.json
   data/recipes_for_create/recipes/brickbondoakplanks.json
   data/recipes_for_create/recipes/brickyacaciaplanks.json
   data/recipes_for_create/recipes/brickybambooplanks.json
+  data/recipes_for_create/recipes/brickybirchplanks.json
   data/recipes_for_create/recipes/brickydarkoakplanks.json
   data/recipes_for_create/recipes/brickyoakplanks.json
   data/recipes_for_create/recipes/bundledacacialog.json
+  data/recipes_for_create/recipes/bundledbirchlog.json
   data/recipes_for_create/recipes/bundleddarkoaklog.json
   data/recipes_for_create/recipes/bundledoaklog.json
   data/recipes_for_create/recipes/carvedstrippeddarkoaklog.json
   data/recipes_for_create/recipes/carvedstrippedoaklog.json
   data/recipes_for_create/recipes/centercutacacialog.json
+  data/recipes_for_create/recipes/centercutbirchlog.json
   data/recipes_for_create/recipes/centercutdarkoaklog.json
   data/recipes_for_create/recipes/centercutoaklog.json
   data/recipes_for_create/recipes/checkeredacaciatrapdoor.json
   data/recipes_for_create/recipes/checkeredbambootrapdoor.json
+  data/recipes_for_create/recipes/checkeredbirchtrapdoor.json
   data/recipes_for_create/recipes/checkereddarkoaktrapdoor.json
   data/recipes_for_create/recipes/checkeredoaktrapdoor.json
   data/recipes_for_create/recipes/cherryacacialeaves.json
+  data/recipes_for_create/recipes/cherrybirchleaves.json
   data/recipes_for_create/recipes/cherrydarkoakleaves.json
   data/recipes_for_create/recipes/cherryoakleaves.json
   data/recipes_for_create/recipes/chippedstrippeddarkoaklog.json
   data/recipes_for_create/recipes/chippedstrippedoaklog.json
   data/recipes_for_create/recipes/classicacaciatrapdoor.json
   data/recipes_for_create/recipes/classicbambootrapdoor.json
+  data/recipes_for_create/recipes/classicbirchtrapdoor.json
   data/recipes_for_create/recipes/classicdarkoaktrapdoor.json
   data/recipes_for_create/recipes/classicwindowedacaciatrapdoor.json
   data/recipes_for_create/recipes/classicwindowedbambootrapdoor.json
+  data/recipes_for_create/recipes/classicwindowedbirchtrapdoor.json
   data/recipes_for_create/recipes/classicwindoweddarkoaktrapdoor.json
   data/recipes_for_create/recipes/classicwindowedoaktrapdoor.json
   data/recipes_for_create/recipes/cobwebacaciatrapdoor.json
   data/recipes_for_create/recipes/cobwebbambootrapdoor.json
+  data/recipes_for_create/recipes/cobwebbirchtrapdoor.json
   data/recipes_for_create/recipes/cobwebdarkoaktrapdoor.json
   data/recipes_for_create/recipes/cobweboaktrapdoor.json
   data/recipes_for_create/recipes/corneredacaciaplanks.json
   data/recipes_for_create/recipes/corneredbambooplanks.json
+  data/recipes_for_create/recipes/corneredbirchplanks.json
   data/recipes_for_create/recipes/cornereddarkoakplanks.json
   data/recipes_for_create/recipes/corneredoakplanks.json
   data/recipes_for_create/recipes/cratedacaciaplanks.json
   data/recipes_for_create/recipes/cratedbambooplanks.json
+  data/recipes_for_create/recipes/cratedbirchplanks.json
   data/recipes_for_create/recipes/crateddarkoakplanks.json
   data/recipes_for_create/recipes/cratedoakplanks.json
   data/recipes_for_create/recipes/crimsonredstonetorch.json
   data/recipes_for_create/recipes/crimsontorch.json
   data/recipes_for_create/recipes/crossedacaciaplanks.json
   data/recipes_for_create/recipes/crossedbambooplanks.json
+  data/recipes_for_create/recipes/crossedbirchplanks.json
   data/recipes_for_create/recipes/crosseddarkoakplanks.json
   data/recipes_for_create/recipes/crossedoakplanks.json
   data/recipes_for_create/recipes/crosslacedacaciaplanks.json
   data/recipes_for_create/recipes/crosslacedbambooplanks.json
+  data/recipes_for_create/recipes/crosslacedbirchplanks.json
   data/recipes_for_create/recipes/crosslaceddarkoakplanks.json
   data/recipes_for_create/recipes/crosslacedoakplanks.json
   data/recipes_for_create/recipes/damagedacacialog.json
+  data/recipes_for_create/recipes/damagedbirchlog.json
   data/recipes_for_create/recipes/damageddarkoaklog.json
   data/recipes_for_create/recipes/damagedoaklog.json
   data/recipes_for_create/recipes/darkoakplanksmosaic.json
@@ -246,92 +271,115 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/darkoakplanksshavings.json
   data/recipes_for_create/recipes/darkoaktorch.json
   data/recipes_for_create/recipes/deadacacialeaves.json
+  data/recipes_for_create/recipes/deadbirchleaves.json
   data/recipes_for_create/recipes/deaddarkoakleaves.json
   data/recipes_for_create/recipes/deadoakleaves.json
   data/recipes_for_create/recipes/detailedacaciaplanks.json
   data/recipes_for_create/recipes/detailedbambooplanks.json
+  data/recipes_for_create/recipes/detailedbirchplanks.json
   data/recipes_for_create/recipes/detaileddarkoakplanks.json
   data/recipes_for_create/recipes/detailedoakplanks.json
   data/recipes_for_create/recipes/diagonalacaciaplanks.json
   data/recipes_for_create/recipes/diagonalbambooplanks.json
+  data/recipes_for_create/recipes/diagonalbirchplanks.json
   data/recipes_for_create/recipes/diagonaldarkoakplanks.json
   data/recipes_for_create/recipes/diagonaloakplanks.json
   data/recipes_for_create/recipes/diamondacaciaplanks.json
   data/recipes_for_create/recipes/diamondbambooplanks.json
+  data/recipes_for_create/recipes/diamondbirchplanks.json
   data/recipes_for_create/recipes/diamonddarkoakplanks.json
   data/recipes_for_create/recipes/diamondoakplanks.json
   data/recipes_for_create/recipes/distortedacaciatrapdoor.json
   data/recipes_for_create/recipes/distortedbambootrapdoor.json
+  data/recipes_for_create/recipes/distortedbirchtrapdoor.json
   data/recipes_for_create/recipes/distorteddarkoaktrapdoor.json
   data/recipes_for_create/recipes/distortedoaktrapdoor.json
   data/recipes_for_create/recipes/doubleherringboneacaciaplanks.json
   data/recipes_for_create/recipes/doubleherringbonebambooplanks.json
+  data/recipes_for_create/recipes/doubleherringbonebirchplanks.json
   data/recipes_for_create/recipes/doubleherringbonedarkoakplanks.json
   data/recipes_for_create/recipes/doubleherringboneoakplanks.json
   data/recipes_for_create/recipes/dsignstrippeddarkoaklog.json
   data/recipes_for_create/recipes/dsignstrippedoaklog.json
   data/recipes_for_create/recipes/dualpaneledacaciadoor.json
   data/recipes_for_create/recipes/dualpaneledbamboodoor.json
+  data/recipes_for_create/recipes/dualpaneledbirchdoor.json
   data/recipes_for_create/recipes/dualpaneleddarkoakdoor.json
   data/recipes_for_create/recipes/dualpaneledoakdoor.json
   data/recipes_for_create/recipes/edgecutacacialog.json
+  data/recipes_for_create/recipes/edgecutbirchlog.json
   data/recipes_for_create/recipes/edgecutdarkoaklog.json
   data/recipes_for_create/recipes/edgecutoaklog.json
   data/recipes_for_create/recipes/edgedstrippeddarkoaklog.json
   data/recipes_for_create/recipes/edgedstrippedoaklog.json
   data/recipes_for_create/recipes/enclosedacaciaplanks.json
   data/recipes_for_create/recipes/enclosedbambooplanks.json
+  data/recipes_for_create/recipes/enclosedbirchplanks.json
   data/recipes_for_create/recipes/encloseddarkoakplanks.json
   data/recipes_for_create/recipes/enclosedoakplanks.json
   data/recipes_for_create/recipes/fancyacaciatrapdoor.json
   data/recipes_for_create/recipes/fancybambootrapdoor.json
+  data/recipes_for_create/recipes/fancybirchtrapdoor.json
   data/recipes_for_create/recipes/fancydarkoaktrapdoor.json
   data/recipes_for_create/recipes/fancyoaktrapdoor.json
   data/recipes_for_create/recipes/fineacaciaplanks.json
   data/recipes_for_create/recipes/finebambooplanks.json
+  data/recipes_for_create/recipes/finebirchplanks.json
   data/recipes_for_create/recipes/finedarkoakplanks.json
   data/recipes_for_create/recipes/fineoakplanks.json
   data/recipes_for_create/recipes/fineverticalacaciaplanks.json
   data/recipes_for_create/recipes/fineverticalbambooplanks.json
+  data/recipes_for_create/recipes/fineverticalbirchplanks.json
   data/recipes_for_create/recipes/fineverticaldarkoakplanks.json
   data/recipes_for_create/recipes/fineverticaloakplanks.json
   data/recipes_for_create/recipes/firewoodacacialog.json
+  data/recipes_for_create/recipes/firewoodbirchlog.json
   data/recipes_for_create/recipes/firewooddarkoaklog.json
   data/recipes_for_create/recipes/firewoodoaklog.json
   data/recipes_for_create/recipes/floweringacacialog.json
+  data/recipes_for_create/recipes/floweringbirchlog.json
   data/recipes_for_create/recipes/floweringdarkoaklog.json
   data/recipes_for_create/recipes/floweringoaklog.json
   data/recipes_for_create/recipes/fortifiedacaciadoor.json
   data/recipes_for_create/recipes/fortifiedbamboodoor.json
+  data/recipes_for_create/recipes/fortifiedbirchdoor.json
   data/recipes_for_create/recipes/fortifieddarkoakdoor.json
   data/recipes_for_create/recipes/fortifiedoakdoor.json
   data/recipes_for_create/recipes/framedacaciaplanks.json
   data/recipes_for_create/recipes/framedbambooplanks.json
+  data/recipes_for_create/recipes/framedbirchplanks.json
   data/recipes_for_create/recipes/frameddarkoakplanks.json
   data/recipes_for_create/recipes/framedoakplanks.json
   data/recipes_for_create/recipes/frostedacacialeaves.json
+  data/recipes_for_create/recipes/frostedbirchleaves.json
   data/recipes_for_create/recipes/frosteddarkoakleaves.json
   data/recipes_for_create/recipes/frostedoakleaves.json
   data/recipes_for_create/recipes/fsignstrippeddarkoaklog.json
   data/recipes_for_create/recipes/fsignstrippedoaklog.json
   data/recipes_for_create/recipes/gatedacaciadoor.json
   data/recipes_for_create/recipes/gatedbamboodoor.json
+  data/recipes_for_create/recipes/gatedbirchdoor.json
   data/recipes_for_create/recipes/gateddarkoakdoor.json
   data/recipes_for_create/recipes/gatedoakdoor.json
   data/recipes_for_create/recipes/glassacaciadoor.json
   data/recipes_for_create/recipes/glassbamboodoor.json
+  data/recipes_for_create/recipes/glassbirchdoor.json
   data/recipes_for_create/recipes/glassdarkoakdoor.json
   data/recipes_for_create/recipes/glassoakdoor.json
   data/recipes_for_create/recipes/glowtorch.json
   data/recipes_for_create/recipes/goldenacacialeaves.json
   data/recipes_for_create/recipes/goldenappleacacialeaves.json
+  data/recipes_for_create/recipes/goldenapplebirchleaves.json
   data/recipes_for_create/recipes/goldenappledarkoakleaves.json
   data/recipes_for_create/recipes/goldenappleoakleaves.json
   data/recipes_for_create/recipes/goldenbarredacaciatrapdoor.json
   data/recipes_for_create/recipes/goldenbarredbambootrapdoor.json
+  data/recipes_for_create/recipes/goldenbarredbirchtrapdoor.json
   data/recipes_for_create/recipes/goldenbarreddarkoaktrapdoor.json
   data/recipes_for_create/recipes/goldenbarredoaktrapdoor.json
+  data/recipes_for_create/recipes/goldenbirchleaves.json
   data/recipes_for_create/recipes/goldencherryacacialeaves.json
+  data/recipes_for_create/recipes/goldencherrybirchleaves.json
   data/recipes_for_create/recipes/goldencherrydarkoakleaves.json
   data/recipes_for_create/recipes/goldencherryoakleaves.json
   data/recipes_for_create/recipes/goldendarkoakleaves.json
@@ -341,20 +389,25 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/heavyacaciatrapdoor.json
   data/recipes_for_create/recipes/heavybamboodoor.json
   data/recipes_for_create/recipes/heavybambootrapdoor.json
+  data/recipes_for_create/recipes/heavybirchdoor.json
+  data/recipes_for_create/recipes/heavybirchtrapdoor.json
   data/recipes_for_create/recipes/heavydarkoakdoor.json
   data/recipes_for_create/recipes/heavydarkoaktrapdoor.json
   data/recipes_for_create/recipes/heavyoakdoor.json
   data/recipes_for_create/recipes/heavyoaktrapdoor.json
   data/recipes_for_create/recipes/herringboneacaciaplanks.json
   data/recipes_for_create/recipes/herringbonebambooplanks.json
+  data/recipes_for_create/recipes/herringbonebirchplanks.json
   data/recipes_for_create/recipes/herringbonedarkoakplanks.json
   data/recipes_for_create/recipes/herringboneoakplanks.json
   data/recipes_for_create/recipes/hewnacaciaplanks.json
   data/recipes_for_create/recipes/hewnbambooplanks.json
+  data/recipes_for_create/recipes/hewnbirchplanks.json
   data/recipes_for_create/recipes/hewndarkoakplanks.json
   data/recipes_for_create/recipes/hewnoakplanks.json
   data/recipes_for_create/recipes/ironbarredacaciatrapdoor.json
   data/recipes_for_create/recipes/ironbarredbambootrapdoor.json
+  data/recipes_for_create/recipes/ironbarredbirchtrapdoor.json
   data/recipes_for_create/recipes/ironbarreddarkoaktrapdoor.json
   data/recipes_for_create/recipes/ironbarredoaktrapdoor.json
   data/recipes_for_create/recipes/irontorch.json
@@ -367,12 +420,14 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/ksignstrippedoaklog.json
   data/recipes_for_create/recipes/lacedacaciaplanks.json
   data/recipes_for_create/recipes/lacedbambooplanks.json
+  data/recipes_for_create/recipes/lacedbirchplanks.json
   data/recipes_for_create/recipes/laceddarkoakplanks.json
   data/recipes_for_create/recipes/lacedoakplanks.json
   data/recipes_for_create/recipes/layeredstrippeddarkoaklog.json
   data/recipes_for_create/recipes/layeredstrippedoaklog.json
   data/recipes_for_create/recipes/leafyacaciatrapdoor.json
   data/recipes_for_create/recipes/leafybambootrapdoor.json
+  data/recipes_for_create/recipes/leafybirchtrapdoor.json
   data/recipes_for_create/recipes/leafydarkoaktrapdoor.json
   data/recipes_for_create/recipes/leafyoaktrapdoor.json
   data/recipes_for_create/recipes/lightstickredstonetorch.json
@@ -381,31 +436,38 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/lumpystrippeddarkoaklog.json
   data/recipes_for_create/recipes/lumpystrippedoaklog.json
   data/recipes_for_create/recipes/magentafloweracacialeaves.json
+  data/recipes_for_create/recipes/magentaflowerbirchleaves.json
   data/recipes_for_create/recipes/magentaflowerdarkoakleaves.json
   data/recipes_for_create/recipes/magentafloweroakleaves.json
   data/recipes_for_create/recipes/meshedacaciatrapdoor.json
   data/recipes_for_create/recipes/meshedbambootrapdoor.json
+  data/recipes_for_create/recipes/meshedbirchtrapdoor.json
   data/recipes_for_create/recipes/mesheddarkoaktrapdoor.json
   data/recipes_for_create/recipes/meshedoaktrapdoor.json
   data/recipes_for_create/recipes/mixedacacialog.json
+  data/recipes_for_create/recipes/mixedbirchlog.json
   data/recipes_for_create/recipes/mixeddarkoaklog.json
   data/recipes_for_create/recipes/mixedoaklog.json
   data/recipes_for_create/recipes/msignstrippeddarkoaklog.json
   data/recipes_for_create/recipes/msignstrippedoaklog.json
   data/recipes_for_create/recipes/nailedacacialog.json
   data/recipes_for_create/recipes/nailedacaciaplanks.json
+  data/recipes_for_create/recipes/nailedbirchlog.json
+  data/recipes_for_create/recipes/nailedbirchplanks.json
   data/recipes_for_create/recipes/naileddarkoaklog.json
   data/recipes_for_create/recipes/naileddarkoakplanks.json
   data/recipes_for_create/recipes/nailedoaklog.json
   data/recipes_for_create/recipes/nailedoakplanks.json
   data/recipes_for_create/recipes/naturalacaciaplanks.json
   data/recipes_for_create/recipes/naturalbambooplanks.json
+  data/recipes_for_create/recipes/naturalbirchplanks.json
   data/recipes_for_create/recipes/naturaldarkoakplanks.json
   data/recipes_for_create/recipes/naturaloakplanks.json
   data/recipes_for_create/recipes/oakplanksmosaic.json
   data/recipes_for_create/recipes/oakplankspanel.json
   data/recipes_for_create/recipes/oakplanksshavings.json
   data/recipes_for_create/recipes/orangeacacialeaves.json
+  data/recipes_for_create/recipes/orangebirchleaves.json
   data/recipes_for_create/recipes/orangedarkoakleaves.json
   data/recipes_for_create/recipes/orangeoakleaves.json
   data/recipes_for_create/recipes/overgrownacaciadoor.json
@@ -413,6 +475,9 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/overgrownacaciatrapdoor.json
   data/recipes_for_create/recipes/overgrownbamboodoor.json
   data/recipes_for_create/recipes/overgrownbambootrapdoor.json
+  data/recipes_for_create/recipes/overgrownbirchdoor.json
+  data/recipes_for_create/recipes/overgrownbirchlog.json
+  data/recipes_for_create/recipes/overgrownbirchtrapdoor.json
   data/recipes_for_create/recipes/overgrowndarkoakdoor.json
   data/recipes_for_create/recipes/overgrowndarkoaklog.json
   data/recipes_for_create/recipes/overgrowndarkoaktrapdoor.json
@@ -421,6 +486,7 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/overgrownoaktrapdoor.json
   data/recipes_for_create/recipes/paneledacaciadoor.json
   data/recipes_for_create/recipes/paneledbamboodoor.json
+  data/recipes_for_create/recipes/paneledbirchdoor.json
   data/recipes_for_create/recipes/paneledoakdoor.json
   data/recipes_for_create/recipes/paperacaciadoor.json
   data/recipes_for_create/recipes/paperbamboodoor.json
@@ -429,32 +495,40 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/patientstrippeddarkoaklog.json
   data/recipes_for_create/recipes/patientstrippedoaklog.json
   data/recipes_for_create/recipes/peggedacaciaplanks.json
+  data/recipes_for_create/recipes/peggedbirchplanks.json
   data/recipes_for_create/recipes/peggeddarkoakplanks.json
   data/recipes_for_create/recipes/peggedoakplanks.json
   data/recipes_for_create/recipes/plankedacacialog.json
+  data/recipes_for_create/recipes/plankedbirchlog.json
   data/recipes_for_create/recipes/plankeddarkoaklog.json
   data/recipes_for_create/recipes/plankedoaklog.json
   data/recipes_for_create/recipes/pointlessacaciatrapdoor.json
   data/recipes_for_create/recipes/pointlessbambootrapdoor.json
+  data/recipes_for_create/recipes/pointlessbirchtrapdoor.json
   data/recipes_for_create/recipes/pointlessdarkoaktrapdoor.json
   data/recipes_for_create/recipes/pointlessoaktrapdoor.json
   data/recipes_for_create/recipes/polishedacaciaplanks.json
   data/recipes_for_create/recipes/polishedbambooplanks.json
+  data/recipes_for_create/recipes/polishedbirchplanks.json
   data/recipes_for_create/recipes/polisheddarkoakplanks.json
   data/recipes_for_create/recipes/polishedoakplanks.json
   data/recipes_for_create/recipes/pressedacaciadoor.json
   data/recipes_for_create/recipes/pressedbamboodoor.json
+  data/recipes_for_create/recipes/pressedbirchdoor.json
   data/recipes_for_create/recipes/presseddarkoakdoor.json
   data/recipes_for_create/recipes/pressedoakdoor.json
   data/recipes_for_create/recipes/railedacaciaplanks.json
   data/recipes_for_create/recipes/railedbambooplanks.json
+  data/recipes_for_create/recipes/railedbirchplanks.json
   data/recipes_for_create/recipes/raileddarkoakplanks.json
   data/recipes_for_create/recipes/railedoakplanks.json
   data/recipes_for_create/recipes/redacacialeaves.json
+  data/recipes_for_create/recipes/redbirchleaves.json
   data/recipes_for_create/recipes/reddarkoakleaves.json
   data/recipes_for_create/recipes/redoakleaves.json
   data/recipes_for_create/recipes/reinforcedacacialog.json
   data/recipes_for_create/recipes/reinforcedbambooplanks.json
+  data/recipes_for_create/recipes/reinforcedbirchlog.json
   data/recipes_for_create/recipes/reinforceddarkoaklog.json
   data/recipes_for_create/recipes/reinforcedoaklog.json
   data/recipes_for_create/recipes/reinforcedstrippeddarkoaklog.json
@@ -462,59 +536,72 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/s.json
   data/recipes_for_create/recipes/screenacaciadoor.json
   data/recipes_for_create/recipes/screenbamboodoor.json
+  data/recipes_for_create/recipes/screenbirchdoor.json
   data/recipes_for_create/recipes/screendarkoakdoor.json
   data/recipes_for_create/recipes/screenoakdoor.json
   data/recipes_for_create/recipes/secretacaciadoor.json
   data/recipes_for_create/recipes/secretbamboodoor.json
+  data/recipes_for_create/recipes/secretbirchdoor.json
   data/recipes_for_create/recipes/secretdarkoakdoor.json
   data/recipes_for_create/recipes/secretoakdoor.json
   data/recipes_for_create/recipes/shackacaciadoor.json
   data/recipes_for_create/recipes/shackbamboodoor.json
+  data/recipes_for_create/recipes/shackbirchdoor.json
   data/recipes_for_create/recipes/shackdarkoakdoor.json
   data/recipes_for_create/recipes/shackoakdoor.json
   data/recipes_for_create/recipes/shiftedacaciaplanks.json
   data/recipes_for_create/recipes/shiftedbambooplanks.json
+  data/recipes_for_create/recipes/shiftedbirchplanks.json
   data/recipes_for_create/recipes/shifteddarkoakplanks.json
   data/recipes_for_create/recipes/shiftedoakplanks.json
   data/recipes_for_create/recipes/signstrippeddarkoaklog.json
   data/recipes_for_create/recipes/signstrippedoaklog.json
   data/recipes_for_create/recipes/slantedacaciaplanks.json
   data/recipes_for_create/recipes/slantedbambooplanks.json
+  data/recipes_for_create/recipes/slantedbirchplanks.json
   data/recipes_for_create/recipes/slanteddarkoakplanks.json
   data/recipes_for_create/recipes/slantedoakplanks.json
   data/recipes_for_create/recipes/slidingacaciadoor.json
   data/recipes_for_create/recipes/slidingbamboodoor.json
+  data/recipes_for_create/recipes/slidingbirchdoor.json
   data/recipes_for_create/recipes/slidingdarkoakdoor.json
   data/recipes_for_create/recipes/slidingoakdoor.json
   data/recipes_for_create/recipes/slottedacaciatrapdoor.json
   data/recipes_for_create/recipes/slottedbambootrapdoor.json
+  data/recipes_for_create/recipes/slottedbirchtrapdoor.json
   data/recipes_for_create/recipes/slotteddarkoaktrapdoor.json
   data/recipes_for_create/recipes/slottedoaktrapdoor.json
   data/recipes_for_create/recipes/smoothacaciaplanks.json
   data/recipes_for_create/recipes/smoothbambooplanks.json
+  data/recipes_for_create/recipes/smoothbirchplanks.json
   data/recipes_for_create/recipes/smoothdarkoakplanks.json
   data/recipes_for_create/recipes/smoothoakplanks.json
   data/recipes_for_create/recipes/solidacaciatrapdoor.json
   data/recipes_for_create/recipes/solidbambootrapdoor.json
+  data/recipes_for_create/recipes/solidbirchtrapdoor.json
   data/recipes_for_create/recipes/soliddarkoaktrapdoor.json
   data/recipes_for_create/recipes/solidoaktrapdoor.json
   data/recipes_for_create/recipes/sprucetorch.json
   data/recipes_for_create/recipes/stackedacaciaplanks.json
   data/recipes_for_create/recipes/stackedbambooplanks.json
+  data/recipes_for_create/recipes/stackedbirchplanks.json
   data/recipes_for_create/recipes/stackeddarkoakplanks.json
   data/recipes_for_create/recipes/stackedoakplanks.json
   data/recipes_for_create/recipes/sternstrippeddarkoaklog.json
   data/recipes_for_create/recipes/sternstrippedoaklog.json
   data/recipes_for_create/recipes/supportedacaciadoor.json
   data/recipes_for_create/recipes/supportedbamboodoor.json
+  data/recipes_for_create/recipes/supportedbirchdoor.json
   data/recipes_for_create/recipes/supporteddarkoakdoor.json
   data/recipes_for_create/recipes/supportedoakdoor.json
   data/recipes_for_create/recipes/suspiciousacaciatrapdoor.json
   data/recipes_for_create/recipes/suspiciousbambootrapdoor.json
+  data/recipes_for_create/recipes/suspiciousbirchtrapdoor.json
   data/recipes_for_create/recipes/suspiciousdarkoaktrapdoor.json
   data/recipes_for_create/recipes/suspiciousoaktrapdoor.json
   data/recipes_for_create/recipes/thinacaciaplanks.json
   data/recipes_for_create/recipes/thinbambooplanks.json
+  data/recipes_for_create/recipes/thinbirchplanks.json
   data/recipes_for_create/recipes/thindarkoakplanks.json
   data/recipes_for_create/recipes/thinoakplanks.json
   data/recipes_for_create/recipes/tiedbambooplanks.json
@@ -522,53 +609,68 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/tiledacaciaplanks.json
   data/recipes_for_create/recipes/tiledbamboodoor.json
   data/recipes_for_create/recipes/tiledbambooplanks.json
+  data/recipes_for_create/recipes/tiledbirchdoor.json
+  data/recipes_for_create/recipes/tiledbirchplanks.json
   data/recipes_for_create/recipes/tileddarkoakdoor.json
   data/recipes_for_create/recipes/tileddarkoakplanks.json
   data/recipes_for_create/recipes/tiledoakdoor.json
   data/recipes_for_create/recipes/tiledoakplanks.json
   data/recipes_for_create/recipes/tilewindowedacaciadoor.json
   data/recipes_for_create/recipes/tilewindowedbamboodoor.json
+  data/recipes_for_create/recipes/tilewindowedbirchdoor.json
   data/recipes_for_create/recipes/tilewindoweddarkoakdoor.json
   data/recipes_for_create/recipes/tilewindowedoakdoor.json
   data/recipes_for_create/recipes/twistedacaciatrapdoor.json
   data/recipes_for_create/recipes/twistedbambootrapdoor.json
+  data/recipes_for_create/recipes/twistedbirchtrapdoor.json
   data/recipes_for_create/recipes/twisteddarkoaktrapdoor.json
   data/recipes_for_create/recipes/twistedoaktrapdoor.json
   data/recipes_for_create/recipes/versaillesacaciaplanks.json
   data/recipes_for_create/recipes/versaillesbambooplanks.json
+  data/recipes_for_create/recipes/versaillesbirchplanks.json
   data/recipes_for_create/recipes/versaillesdarkoakplanks.json
   data/recipes_for_create/recipes/versaillesoakplanks.json
   data/recipes_for_create/recipes/verticalacaciaplanks.json
   data/recipes_for_create/recipes/verticalbambooplanks.json
+  data/recipes_for_create/recipes/verticalbirchplanks.json
   data/recipes_for_create/recipes/verticaldarkoakplanks.json
   data/recipes_for_create/recipes/verticallyrailedacaciaplanks.json
   data/recipes_for_create/recipes/verticallyrailedbambooplanks.json
+  data/recipes_for_create/recipes/verticallyrailedbirchplanks.json
   data/recipes_for_create/recipes/verticallyraileddarkoakplanks.json
   data/recipes_for_create/recipes/verticallyrailedoakplanks.json
   data/recipes_for_create/recipes/verticaloakplanks.json
   data/recipes_for_create/recipes/vinedacaciatrapdoor.json
   data/recipes_for_create/recipes/vinedbambootrapdoor.json
+  data/recipes_for_create/recipes/vinedbirchtrapdoor.json
   data/recipes_for_create/recipes/vineddarkoaktrapdoor.json
   data/recipes_for_create/recipes/vinedoaktrapdoor.json
   data/recipes_for_create/recipes/warpedtorch.json
   data/recipes_for_create/recipes/wartedacaciatrapdoor.json
   data/recipes_for_create/recipes/wartedbambootrapdoor.json
+  data/recipes_for_create/recipes/wartedbirchtrapdoor.json
   data/recipes_for_create/recipes/warteddarkoaktrapdoor.json
   data/recipes_for_create/recipes/wartedoaktrapdoor.json
   data/recipes_for_create/recipes/whirlwindacaciaplanks.json
   data/recipes_for_create/recipes/whirlwindbambooplanks.json
+  data/recipes_for_create/recipes/whirlwindbirchplanks.json
   data/recipes_for_create/recipes/whirlwinddarkoakplanks.json
   data/recipes_for_create/recipes/whirlwindoakplanks.json
   data/recipes_for_create/recipes/whitefloweracacialeaves.json
+  data/recipes_for_create/recipes/whiteflowerbirchleaves.json
+  data/recipes_for_create/recipes/whiteflowerbirchleaves_mixing.json
   data/recipes_for_create/recipes/whiteflowerdarkoakleaves.json
   data/recipes_for_create/recipes/whitefloweroakleaves.json
   data/recipes_for_create/recipes/wickeredacaciaplanks.json
   data/recipes_for_create/recipes/wickeredbambooplanks.json
+  data/recipes_for_create/recipes/wickeredbirchplanks.json
   data/recipes_for_create/recipes/wickereddarkoakplanks.json
   data/recipes_for_create/recipes/wickeredoakplanks.json
   data/recipes_for_create/recipes/windowedacaciadoor.json
   data/recipes_for_create/recipes/windowedacaciatrapdoor.json
   data/recipes_for_create/recipes/windowedbambootrapdoor.json
+  data/recipes_for_create/recipes/windowedbirchdoor.json
+  data/recipes_for_create/recipes/windowedbirchtrapdoor.json
   data/recipes_for_create/recipes/windoweddarkoakdoor.json
   data/recipes_for_create/recipes/windoweddarkoaktrapdoor.json
   data/recipes_for_create/recipes/windowedoakdoor.json
@@ -577,6 +679,7 @@ Writing Output: C:\Users\brayd\MCreatorWorkspaces\recipesforcreate\build\reobfJa
   data/recipes_for_create/recipes/wisestrippedoaklog.json
   data/recipes_for_create/recipes/wovenacaciatrapdoor.json
   data/recipes_for_create/recipes/wovenbambootrapdoor.json
+  data/recipes_for_create/recipes/wovenbirchtrapdoor.json
   data/recipes_for_create/recipes/wovendarkoaktrapdoor.json
   data/recipes_for_create/recipes/wovenoaktrapdoor.json
   data/recipes_for_create/recipes/yellowredstonetorch.json

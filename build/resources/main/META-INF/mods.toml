@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="All Rights Reserved"
+license="MIT License"
 
 [[mods]]
 modId="recipes_for_create"
-version="0.6.0"
+version="0.7.0"
 displayName="Crafting Recipes For Create"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/crafting-recipes-for-create"
-credits="None"
+displayURL="https://github.com/BrayDo2010/Crafting-Recipes-For-Create"
+credits="Jimmy2389438, BrayDog2010"
 authors="Jimmy2389438"
 description="This Mod Allows You To Craft Chipped With Creat"
 
