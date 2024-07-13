@@ -1,23 +1,29 @@
 modLoader="javafml"
-loaderVersion="[47,)"
+loaderVersion="[43,)"
 license="MIT License"
 
 [[mods]]
 modId="recipes_for_create"
-version="0.7.0"
+version="0.8.0"
 displayName="Crafting Recipes For Create"
 displayURL="https://github.com/BrayDo2010/Crafting-Recipes-For-Create"
-credits="Jimmy2389438, BrayDog2010"
-authors="Jimmy2389438"
+credits="BrayDog2010, Jimmy2389438"
+authors="BrayDog2010"
 description="This Mod Allows You To Craft Chipped With Creat"
+displayTest="IGNORE_SERVER_VERSION"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
 
 [[dependencies.recipes_for_create]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1]"
+    versionRange="[1.19.2]"
     ordering="NONE"
     side="BOTH"
 
 
 
 
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
