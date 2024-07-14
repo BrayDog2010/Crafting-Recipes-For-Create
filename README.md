@@ -1,0 +1,1 @@
+This mod allows you to use create to craft blocks from chipped and other mods.
