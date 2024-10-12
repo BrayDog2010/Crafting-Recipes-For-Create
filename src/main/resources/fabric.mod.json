@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "recipes_for_create",
+	"version": "${version}",
+	"name": "Crafting Recipes For Create",
+	"description": "This Mod Allows You To Craft Chipped With Create",
+	"authors": [
+		"BrayDo2010"
+	],
+	"contact": {
+		"homepage": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create",
+		"sources": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create"
+	},
+	"license": "MIT License",
+	"icon": "assets/main-icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.BrayDog2010.ChippedCreateFabric"
+		],
+		"client": [
+			"com.BrayDog2010.ChippedCreateFabricClient"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.19.2",
+		"java": ">=17",
+		"fabric-api": "*",
+		"create": "*",
+		"chipped": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
