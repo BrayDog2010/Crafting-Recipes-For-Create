@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_door"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:boarded_warped_door"
+    }
+  ]
+}

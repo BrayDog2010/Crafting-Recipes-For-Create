@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:runic_carved_clay"
+    }
+  ]
+}

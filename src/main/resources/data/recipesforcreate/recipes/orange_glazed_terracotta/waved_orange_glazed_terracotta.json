@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_glazed_terracotta"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:waved_orange_glazed_terracotta"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mossy_stone_bricks"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:trodden_mossy_stone_bricks"
+    }
+  ]
+}

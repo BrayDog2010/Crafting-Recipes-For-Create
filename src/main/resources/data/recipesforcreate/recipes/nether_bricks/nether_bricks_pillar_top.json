@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:nether_bricks_pillar_top"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp_block"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:wart_dried_kelp_block"
+    }
+  ]
+}

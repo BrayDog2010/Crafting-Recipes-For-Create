@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:diorite"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "minecraft:diorite"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:soul_sand"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ]
+}

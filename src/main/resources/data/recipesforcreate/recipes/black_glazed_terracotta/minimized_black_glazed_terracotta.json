@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:black_glazed_terracotta"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:minimized_black_glazed_terracotta"
+    }
+  ]
+}

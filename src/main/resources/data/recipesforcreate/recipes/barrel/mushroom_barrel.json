@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:barrel"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:mushroom_barrel"
+    }
+  ]
+}

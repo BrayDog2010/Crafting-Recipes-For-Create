@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_stained_glass_pane"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:woven_purple_stained_glass_pane"
+    }
+  ]
+}

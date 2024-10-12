@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_acacia_log"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:sign_stripped_acacia_log"
+    }
+  ]
+}

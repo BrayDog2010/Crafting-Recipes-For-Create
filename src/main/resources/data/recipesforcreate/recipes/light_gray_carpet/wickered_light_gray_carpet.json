@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_carpet"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:wickered_light_gray_carpet"
+    }
+  ]
+}

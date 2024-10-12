@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold_block"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:eroded_raw_gold_block"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_leaves"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:cherry_jungle_leaves"
+    }
+  ]
+}

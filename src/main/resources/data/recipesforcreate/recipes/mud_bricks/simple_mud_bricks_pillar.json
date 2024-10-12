@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mud_bricks"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:simple_mud_bricks_pillar"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_roots"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:leafy_mangrove_roots"
+    }
+  ]
+}

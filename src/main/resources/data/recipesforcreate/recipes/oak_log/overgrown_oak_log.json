@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_log"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:overgrown_oak_log"
+    }
+  ]
+}

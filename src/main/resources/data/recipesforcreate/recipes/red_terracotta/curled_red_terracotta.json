@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:red_terracotta"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:curled_red_terracotta"
+    }
+  ]
+}

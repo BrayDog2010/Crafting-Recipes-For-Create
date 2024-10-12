@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_wool"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:bundled_purple_wool"
+    }
+  ]
+}

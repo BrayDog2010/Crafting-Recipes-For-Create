@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_stained_glass"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:circular_pink_stained_glass"
+    }
+  ]
+}

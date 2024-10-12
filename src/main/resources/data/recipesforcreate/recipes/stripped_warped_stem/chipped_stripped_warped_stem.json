@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_warped_stem"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:chipped_stripped_warped_stem"
+    }
+  ]
+}

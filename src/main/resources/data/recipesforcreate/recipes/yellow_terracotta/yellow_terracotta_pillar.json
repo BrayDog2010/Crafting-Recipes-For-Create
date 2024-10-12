@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_terracotta"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:yellow_terracotta_pillar"
+    }
+  ]
+}

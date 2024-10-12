@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:bricks"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:inscribed_bricks"
+    }
+  ]
+}

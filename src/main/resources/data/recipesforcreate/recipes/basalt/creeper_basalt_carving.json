@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:creeper_basalt_carving"
+    }
+  ]
+}

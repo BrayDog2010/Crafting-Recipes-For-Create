@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:ladder"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:strong_ladder"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:lily_pad"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:dark_paddle_lily_pad"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_carpet"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:crafted_yellow_carpet"
+    }
+  ]
+}

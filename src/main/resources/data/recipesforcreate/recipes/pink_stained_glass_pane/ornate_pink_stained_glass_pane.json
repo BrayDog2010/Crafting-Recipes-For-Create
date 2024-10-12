@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_stained_glass_pane"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:ornate_pink_stained_glass_pane"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:green_stained_glass"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:fancy_green_stained_glass"
+    }
+  ]
+}

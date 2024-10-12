@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:waxed_weathered_copper"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:pressed_waxed_weathered_copper"
+    }
+  ]
+}

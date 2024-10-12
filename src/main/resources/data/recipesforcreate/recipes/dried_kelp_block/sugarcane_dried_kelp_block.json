@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp_block"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:sugarcane_dried_kelp_block"
+    }
+  ]
+}

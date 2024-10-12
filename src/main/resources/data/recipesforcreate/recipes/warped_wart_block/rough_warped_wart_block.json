@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_wart_block"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:rough_warped_wart_block"
+    }
+  ]
+}

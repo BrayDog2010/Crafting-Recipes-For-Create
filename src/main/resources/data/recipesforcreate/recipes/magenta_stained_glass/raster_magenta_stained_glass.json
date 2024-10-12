@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_stained_glass"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:raster_magenta_stained_glass"
+    }
+  ]
+}

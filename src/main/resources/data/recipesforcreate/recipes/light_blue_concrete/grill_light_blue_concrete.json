@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_concrete"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:grill_light_blue_concrete"
+    }
+  ]
+}

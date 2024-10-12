@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:white_stained_glass"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:square_white_stained_glass"
+    }
+  ]
+}

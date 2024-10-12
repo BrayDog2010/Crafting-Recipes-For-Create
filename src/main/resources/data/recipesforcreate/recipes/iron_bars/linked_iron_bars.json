@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_bars"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:linked_iron_bars"
+    }
+  ]
+}

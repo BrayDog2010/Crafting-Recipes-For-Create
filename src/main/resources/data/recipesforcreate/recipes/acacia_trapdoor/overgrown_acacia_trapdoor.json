@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_trapdoor"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:overgrown_acacia_trapdoor"
+    }
+  ]
+}

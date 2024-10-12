@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_door"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:paneled_jungle_door"
+    }
+  ]
+}

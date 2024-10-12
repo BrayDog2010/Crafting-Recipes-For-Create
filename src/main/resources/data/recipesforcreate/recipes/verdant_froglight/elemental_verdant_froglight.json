@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:verdant_froglight"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:elemental_verdant_froglight"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_planks"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:bricky_jungle_planks"
+    }
+  ]
+}

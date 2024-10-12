@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_concrete"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:stacked_pink_concrete"
+    }
+  ]
+}

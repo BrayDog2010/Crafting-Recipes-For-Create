@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_door"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:beach_mangrove_door"
+    }
+  ]
+}

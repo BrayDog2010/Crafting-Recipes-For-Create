@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:ancient_debris"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:ancient_debris_pillar"
+    }
+  ]
+}

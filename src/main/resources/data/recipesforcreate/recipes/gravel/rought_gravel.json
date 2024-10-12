@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:rought_gravel"
+    }
+  ]
+}

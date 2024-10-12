@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:smooth_inlayed_magma_block"
+    }
+  ]
+}

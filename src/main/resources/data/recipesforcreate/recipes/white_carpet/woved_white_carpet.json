@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:white_carpet"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:woved_white_carpet"
+    }
+  ]
+}

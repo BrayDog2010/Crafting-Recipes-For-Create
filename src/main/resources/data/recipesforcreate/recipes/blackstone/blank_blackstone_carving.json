@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:blank_blackstone_carving"
+    }
+  ]
+}

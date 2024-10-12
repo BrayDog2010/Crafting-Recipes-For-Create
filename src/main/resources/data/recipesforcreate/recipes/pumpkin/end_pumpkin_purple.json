@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:end_pumpkin_purple"
+    }
+  ]
+}

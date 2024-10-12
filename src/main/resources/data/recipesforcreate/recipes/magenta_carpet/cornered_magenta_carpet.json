@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_carpet"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:cornered_magenta_carpet"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:checkered_sandstone_tiles"
+    }
+  ]
+}

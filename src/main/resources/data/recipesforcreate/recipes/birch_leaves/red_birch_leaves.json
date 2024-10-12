@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:birch_leaves"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:red_birch_leaves"
+    }
+  ]
+}

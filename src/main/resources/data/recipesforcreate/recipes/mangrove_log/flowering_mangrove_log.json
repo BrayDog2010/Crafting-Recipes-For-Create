@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_log"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:flowering_mangrove_log"
+    }
+  ]
+}

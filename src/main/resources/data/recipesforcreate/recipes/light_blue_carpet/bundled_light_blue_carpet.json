@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_carpet"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:bundled_light_blue_carpet"
+    }
+  ]
+}

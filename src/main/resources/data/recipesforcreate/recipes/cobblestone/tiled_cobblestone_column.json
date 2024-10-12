@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:tiled_cobblestone_column"
+    }
+  ]
+}

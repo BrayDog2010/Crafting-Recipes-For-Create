@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:waxed_exposed_copper"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:pressed_waxed_exposed_copper"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:gray_stained_glass_pane"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:square_gray_stained_glass_pane"
+    }
+  ]
+}

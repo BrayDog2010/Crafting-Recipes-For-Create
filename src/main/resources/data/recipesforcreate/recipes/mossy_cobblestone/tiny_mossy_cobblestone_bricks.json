@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:tiny_mossy_cobblestone_bricks"
+    }
+  ]
+}

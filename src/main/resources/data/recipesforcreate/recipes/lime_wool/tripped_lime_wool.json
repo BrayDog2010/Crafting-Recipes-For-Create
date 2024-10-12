@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_wool"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:tripped_lime_wool"
+    }
+  ]
+}

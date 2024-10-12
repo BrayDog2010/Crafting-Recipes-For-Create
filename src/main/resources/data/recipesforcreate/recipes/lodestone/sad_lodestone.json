@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:lodestone"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:sad_lodestone"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:flat_basalt_tiles"
+    }
+  ]
+}

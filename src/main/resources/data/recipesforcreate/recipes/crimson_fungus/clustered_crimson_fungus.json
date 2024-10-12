@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_fungus"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:clustered_crimson_fungus"
+    }
+  ]
+}
