@@ -8,11 +8,12 @@
 		"BrayDo2010"
 	],
 	"contact": {
-		"homepage": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create",
-		"sources": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create"
+		"homepage": "https://braydog2010apps.pages.dev/rfc",
+		"sources": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create",
+		"issues": "https://github.com/BrayDog2010/Crafting-Recipes-For-Create/issues"
 	},
 	"license": "MIT License",
-	"icon": "assets/main-icon.png",
+	"icon": "assets/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
