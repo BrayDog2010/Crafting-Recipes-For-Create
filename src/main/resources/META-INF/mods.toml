@@ -4,9 +4,9 @@ license="MIT License"
 
 [[mods]]
 modId="recipesforcreate"
-version="1.1.3"
+version="1.1.4"
 displayName="Crafting Recipes For Create"
-icon="icon.png"
+iconFile="icon.png"
 displayURL="https://github.com/BrayDo2010/Crafting-Recipes-For-Create"
 credits="BrayDog2010"
 authors="BrayDog2010"
@@ -40,4 +40,3 @@ mandatory=true
 versionRange="[2.1.0,)"
 ordering="NONE"
 side="BOTH"
-

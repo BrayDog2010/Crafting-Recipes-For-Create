@@ -17,6 +17,7 @@ import java.util.stream.Collectors;
 // Demonstrates how to use Forge's config APIs
 @Mod.EventBusSubscriber(modid = recipesforcreate.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class Config {
+    /*
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
     private static final ForgeConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER.comment("Whether to log the dirt block on common setup").define("logDirtBlock", true);
@@ -48,4 +49,5 @@ public class Config {
         // convert the list of strings into a set of items
         items = ITEM_STRINGS.get().stream().map(itemName -> ForgeRegistries.ITEMS.getValue(new ResourceLocation(itemName))).collect(Collectors.toSet());
     }
+    */
 }
