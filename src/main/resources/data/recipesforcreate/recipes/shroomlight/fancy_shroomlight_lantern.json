@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:shroomlight"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:fancy_shroomlight_lantern"
+    }
+  ]
+}

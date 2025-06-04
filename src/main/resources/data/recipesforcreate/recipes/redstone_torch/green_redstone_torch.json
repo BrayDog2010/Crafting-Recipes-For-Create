@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_torch"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:green_redstone_torch"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:d_sign_stripped_crimson_stem"
+    }
+  ]
+}

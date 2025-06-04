@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_lantern"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:special_sea_lantern"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_door"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:screen_spruce_door"
+    }
+  ]
+}

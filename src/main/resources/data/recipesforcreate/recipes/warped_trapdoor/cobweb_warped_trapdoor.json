@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_trapdoor"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:cobweb_warped_trapdoor"
+    }
+  ]
+}

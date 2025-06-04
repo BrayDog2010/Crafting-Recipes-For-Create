@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_cherry_log"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:stern_stripped_cherry_log"
+    }
+  ]
+}
