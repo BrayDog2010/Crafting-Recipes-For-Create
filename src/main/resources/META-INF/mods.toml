@@ -1,0 +1,46 @@
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "${mod_license}"
+issueTrackerURL="https://github.com/BrayDog2010/Crafting-Recipes-For-Create/issues"
+
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+updateJSONURL = "https://raw.githubusercontent.com/BrayDog2010/Crafting-Recipes-For-Create/refs/heads/main/update.json"
+displayURL = "https://braydog2010apps.pages.dev/mods/rfc"
+logoFile="icon.png"
+#credits="Thanks for this example mod goes to Java"
+authors = "${mod_authors}" #optional
+#displayTest="MATCH_VERSION"
+description = '''${mod_description}'''
+
+
+[[dependencies."${mod_id}"]]
+modId = "forge"
+mandatory = true
+versionRange = "${forge_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies."${mod_id}"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "${for_minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies."${mod_id}"]]
+modId= "create"
+mandatory= true
+versionRange= "[0.5.0e,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."${mod_id}"]]
+modId= "chipped"
+mandatory= true
+versionRange= "[2.1.0,)"
+ordering= "NONE"
+side= "BOTH"

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:bookshelf"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:mixed_oak_bookshelf"
+    }
+  ]
+}

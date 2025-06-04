@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "${mod_id}",
+	"version": "${mod_version}",
+	"name": "${mod_name}",
+	"description": "${mod_description}",
+	"authors": [
+		"${mod_authors}"
+	],
+	"contact": {
+		"homepage": "https://braydog2010apps.pages.dev/rfc",
+		"sources": "https://github.com/BrayDo2010/Crafting-Recipes-For-Create",
+		"issues": "https://github.com/BrayDog2010/Crafting-Recipes-For-Create/issues"
+	},
+	"license": "${mod_license}",
+	"icon": "icon.png",
+	"environment": "*",
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "1.19.2 || 1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"create": "*",
+		"chipped": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_ice"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:blue_ice_bricks"
+    }
+  ]
+}
