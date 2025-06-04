@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_sprouts"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:high_nether_sprouts"
+    }
+  ]
+}

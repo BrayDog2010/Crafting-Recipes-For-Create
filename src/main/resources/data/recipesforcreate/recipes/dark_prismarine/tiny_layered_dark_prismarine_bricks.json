@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_prismarine"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:tiny_layered_dark_prismarine_bricks"
+    }
+  ]
+}

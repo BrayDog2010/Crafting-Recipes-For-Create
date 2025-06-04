@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:unamused_andesite"
+    }
+  ]
+}

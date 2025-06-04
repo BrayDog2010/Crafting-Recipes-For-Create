@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cherry_trapdoor"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:leafy_cherry_trapdoor"
+    }
+  ]
+}

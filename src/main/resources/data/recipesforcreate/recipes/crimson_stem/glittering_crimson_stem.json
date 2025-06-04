@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_stem"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:glittering_crimson_stem"
+    }
+  ]
+}

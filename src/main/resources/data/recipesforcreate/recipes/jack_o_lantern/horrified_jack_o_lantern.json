@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:jack_o_lantern"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:horrified_jack_o_lantern"
+    }
+  ]
+}

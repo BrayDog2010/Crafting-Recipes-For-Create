@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:pearlescent_froglight"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:exposed_pearlescent_froglight"
+    }
+  ]
+}

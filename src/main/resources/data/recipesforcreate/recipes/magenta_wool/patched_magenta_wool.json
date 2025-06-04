@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:patched_magenta_wool"
+    }
+  ]
+}

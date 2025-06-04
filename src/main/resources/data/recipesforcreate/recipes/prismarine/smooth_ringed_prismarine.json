@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:smooth_ringed_prismarine"
+    }
+  ]
+}

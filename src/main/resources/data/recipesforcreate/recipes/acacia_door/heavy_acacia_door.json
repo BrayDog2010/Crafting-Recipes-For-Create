@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_door"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:heavy_acacia_door"
+    }
+  ]
+}

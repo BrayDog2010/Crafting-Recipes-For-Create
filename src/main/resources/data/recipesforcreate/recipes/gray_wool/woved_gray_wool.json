@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:gray_wool"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:woved_gray_wool"
+    }
+  ]
+}

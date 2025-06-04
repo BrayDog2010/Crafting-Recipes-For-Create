@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:hooded_brown_mushroom"
+    }
+  ]
+}

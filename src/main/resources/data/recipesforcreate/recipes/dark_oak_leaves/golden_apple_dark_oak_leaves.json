@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_oak_leaves"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:golden_apple_dark_oak_leaves"
+    }
+  ]
+}

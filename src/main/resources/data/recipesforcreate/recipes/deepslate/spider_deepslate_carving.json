@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:spider_deepslate_carving"
+    }
+  ]
+}

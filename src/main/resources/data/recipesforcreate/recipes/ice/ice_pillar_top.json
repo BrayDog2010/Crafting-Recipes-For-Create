@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "processingTime": 1,
+  "results": [
+    {
+      "item": "chipped:ice_pillar_top"
+    }
+  ]
+}
