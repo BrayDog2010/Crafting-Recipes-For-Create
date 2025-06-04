@@ -1,20 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/crafting-recipes-for-create",
   "1.21.1": {
-    "1.2": "Made the jar support all three mod loaders.\n\nForge and Fabric Supprot:\n1.19.2 and 1.20.1\n\nNeoForge Supports:\n1.21.1"
+    "1.2": "Made the jar support all three mod loaders.\n\nForge and Fabric Supprot:\n1.20.1\n\nNeoForge Supports:\n1.21.1"
   },
   "1.20.1": {
-    "1.2": "Made the jar support all three mod loaders.\n\nForge and Fabric Supprot:\n1.19.2 and 1.20.1\n\nNeoForge Supports:\n1.21.1"
-  },
-  "1.19.2": {
-    "1.2": "Made the jar support all three mod loaders.\n\nForge and Fabric Supprot:\n1.19.2 and 1.20.1\n\nNeoForge Supports:\n1.21.1"
+    "1.2": "Made the jar support all three mod loaders.\n\nForge and Fabric Supprot:\n1.20.1\n\nNeoForge Supports:\n1.21.1"
   },
   "promos": {
     "1.21.1-latest": "1.2",
     "1.21.1-recommended": "1.2",
     "1.20.1-latest": "1.2",
     "1.20.1-recommended": "1.2",
-    "1.19.2-latest": "1.2",
-    "1.19.2-recommended": "1.2"
   }
 }
